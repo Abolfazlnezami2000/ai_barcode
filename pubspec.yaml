@@ -15,7 +15,7 @@ dependencies:
   ai_barcode_platform_interface: ^3.0.1
   ai_barcode_web:
     git:
-      url: https://github.com/jlouage/flutter-carousel-pro.git
+      url: https://github.com/Abolfazlnezami2000/ai_barcode_web.git
 
 dev_dependencies:
   flutter_test:
